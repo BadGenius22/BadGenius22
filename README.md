@@ -1,3 +1,5 @@
+[![MasterHead](https://discovertemplate.com/wp-content/uploads/2020/12/DT_G66_Bitcoin-Animated-GIF-Icon-Pack.gif)](https://linktr.ee/dewaxindo)
+
 <h1 align="center">Hi 👋, I'm Dewangga Praxindo</h1>
 <h3 align="center">Founder of iCrypto Media Community & Web3 Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
