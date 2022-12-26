@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/dewaxindo" target="blank"><img src="https://img.shields.io/twitter/follow/dewaxindo?logo=twitter&style=for-the-badge" alt="dewaxindo" /></a> </p>
 
-- 🔭 I’m currently working on [Battle of Heroes](https://github.com/BadGenius22/BoH-FrontEnd)
+- 🔭 Won a Prize in Chainlink Hackathon Fall 2022 with this project: [Battle of Heroes](https://github.com/BadGenius22/BoH-FrontEnd)
 
 - 🌱 I’m currently learning **Solidity, Hardhat**
 
