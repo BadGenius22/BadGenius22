@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/dewaxindo](https://linktr.ee/dewaxindo)
 
-- 📫 How to reach me **dewa.xindo@gmail.com**
+- 📫 How to reach me **badgenius.crypto@gmail.com**
 
 - ⚡ Fun fact **I like Anime & Kpop Culture!**
 
