@@ -8,7 +8,7 @@
 
 - 🔭 Won a Prize in Chainlink Hackathon Fall 2022 with this project: [Battle of Heroes](https://github.com/BadGenius22/BoH-FrontEnd)
 
-- 🌱 I’m currently learning **Solidity, Hardhat, Foundry**
+- 🌱 **A Solidity Developer (DeFi)**
 
 - 👯 My Community & Media Company [iCrypto Media](https://www.tiktok.com/@icryptomedia)
 
