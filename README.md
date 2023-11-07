@@ -8,7 +8,7 @@
 
 - 🔭 Won a Prize in Chainlink Hackathon Fall 2022 with this project: [Battle of Heroes](https://github.com/BadGenius22/BoH-FrontEnd)
 
-- 🌱 **A Solidity Developer (DeFi)**
+- 🌱 **Currently a Solidity Developer at [Factor Finance](https://factor.fi/)**
 
 - 👯 My Community & Media Company [iCrypto Media](https://www.tiktok.com/@icryptomedia)
 
