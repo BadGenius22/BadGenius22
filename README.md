@@ -32,7 +32,7 @@
 
 <p><img align="left" src="https://github-readme-stats-ochre-omega-40.vercel.app/api/top-langs?username=badgenius22&show_icons=true&theme=radical&locale=en&layout=compact" alt="badgenius22" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-ochre-omega-40.vercel.app/api?username=badgenius22&show_icons=true&theme=radical&locale=en" alt="badgenius22" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-badgenius22s-projects.vercel.app/api?username=badgenius22&show_icons=true&theme=radical&locale=en" alt="badgenius22" /></p>
 
 
 
