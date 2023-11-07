@@ -32,10 +32,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=badgenius22&show_icons=true&locale=en&layout=compact" alt="badgenius22" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=badgenius22&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="badgenius22" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=badgenius22&show_icons=true&theme=radical&locale=en" alt="badgenius22" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=badgenius22&show_icons=true&locale=en" alt="badgenius22" /></p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
