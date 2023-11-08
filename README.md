@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Dewangga Praxindo</h1>
-<h3 align="center">Founder of iCrypto Media Community & Web3 Developer</h3>
+<h3 align="center">Solidity Developer & Founder of iCrypto Media Community</h3>
 <img align="right" alt="Coding" width="400" src="https://discovertemplate.com/wp-content/uploads/2020/12/DT_G66_Bitcoin-Animated-GIF-Icon-Pack.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badgenius22&label=Profile%20views&color=0e75b6&style=flat" alt="badgenius22" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dewaxindo" target="blank"><img src="https://img.shields.io/twitter/follow/dewaxindo?logo=twitter&style=for-the-badge" alt="dewaxindo" /></a> </p>
 
-- 🔭 Won a Prize in Chainlink Hackathon Fall 2022 with this project: [Battle of Heroes](https://github.com/BadGenius22/BoH-FrontEnd)
-
 - 🌱 **Currently a Solidity Developer at [Factor Finance](https://factor.fi/)**
+  
+- 🔭 Won a Prize in Chainlink Hackathon Fall 2022 with this project: [Battle of Heroes](https://github.com/BadGenius22/BoH-FrontEnd)
 
 - 👯 My Community & Media Company [iCrypto Media](https://www.tiktok.com/@icryptomedia)
 
