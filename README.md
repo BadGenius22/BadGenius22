@@ -32,7 +32,7 @@
 
 <p><img align="left" src="https://github-readme-stats-badgenius22s-projects.vercel.app/api/top-langs?username=badgenius22&show_icons=true&theme=radical&locale=en&layout=compact" alt="badgenius22" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-badgenius22s-projects.vercel.app/api?username=badgenius22&show_icons=true&theme=radical&locale=en&show=prs_merged,prs_merged_percentage&rank_icon=github" alt="badgenius22" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-badgenius22s-projects.vercel.app/api?username=badgenius22&show_icons=true&theme=radical&locale=en&show=prs_merged,prs_merged_percentage&rank_icon=github&include_all_commits=true" alt="badgenius22" /></p>
 
 
 
