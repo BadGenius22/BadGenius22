@@ -48,7 +48,11 @@
 
 ---
 
-<p align="center">
-  <a href="https://twitter.com/dewaxindo">𝕏 @dewaxindo</a> •
-  <a href="https://linkedin.com/in/dewanggapraxindo">LinkedIn</a>
-</p>
+## Connect
+
+[![Twitter](https://img.shields.io/badge/-@dewaxindo-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/dewaxindo)
+[![YouTube](https://img.shields.io/badge/-Dewangga_Praxindo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@dewanggapraxindo)
+[![Instagram](https://img.shields.io/badge/-@dewaxindo-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/dewaxindo)
+[![TikTok](https://img.shields.io/badge/-@dewaxindo-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@dewaxindo)
+[![LinkedIn](https://img.shields.io/badge/-Dewangga_Praxindo-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dewanggapraxindo)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BadGenius22)
