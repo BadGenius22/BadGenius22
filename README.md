@@ -1,4 +1,4 @@
-# Hi, I'm Dewangga 👋
+# Hi, I'm Dewa 👋
 
 📍 **Yogyakarta, Indonesia** | 🔐 **Web3 Security** | 🏗️ **Full Stack Builder**
 
