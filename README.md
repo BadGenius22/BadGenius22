@@ -2,12 +2,12 @@
 
 📍 **Yogyakarta, Indonesia** | 🔐 **Web3 Security** | 🏗️ **Full Stack Builder**
 
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![Foundry](https://img.shields.io/badge/Foundry-1C1C1C?style=flat&logo=ethereum&logoColor=white)
-![Anchor](https://img.shields.io/badge/Anchor-9945FF?style=flat&logo=solana&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Foundry](https://img.shields.io/badge/-Foundry-1C1C1C?style=flat-square&logo=ethereum&logoColor=white)
+![Anchor](https://img.shields.io/badge/-Anchor-9945FF?style=flat-square&logo=solana&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
 > Building privacy infrastructure for Web3. Ex-Factor Finance. Shipping fast.
 
@@ -42,15 +42,9 @@
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=BadGenius22&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=BadGenius22&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</p>
+![GitHub Contribution Graph](https://ghchart.rshah.org/BadGenius22)
 
 ---
 
