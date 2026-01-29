@@ -27,7 +27,7 @@
 
 | Project | Impact |
 |---------|--------|
-| 💰 **Factor Finance** | Core smart contract engineer — $50M+ TVL leverage vaults, PeckShield audited |
+| 💰 **[Factor Finance](https://app.factor.fi/)** | Core smart contract engineer — $50M+ TVL leverage vaults, PeckShield audited |
 | 🤝 **Ember AI** | Open source contributor — Compound V3 integration |
 | 📊 **Messari** | Crypto analyst — subgraph validation, asset profiles |
 
@@ -45,6 +45,16 @@
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/BadGenius22)
+
+---
+
+## Media
+
+**[iCrypto Media](https://icrypto.co.id/)** — Indonesia's Web3 & Crypto News Platform
+
+[![X](https://img.shields.io/badge/-@icryptomedia-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/icryptomedia)
+[![Instagram](https://img.shields.io/badge/-@icryptomedia-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/icryptomedia)
+[![TikTok](https://img.shields.io/badge/-@icryptomedia-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@icryptomedia)
 
 ---
 
