@@ -1,39 +1,60 @@
-<h1 align="center">Hi 👋, I'm Dewangga Praxindo</h1>
-<h3 align="center">Solidity Developer & Founder of iCrypto Media Community</h3>
-<img align="right" alt="Coding" width="400" src="https://discovertemplate.com/wp-content/uploads/2020/12/DT_G66_Bitcoin-Animated-GIF-Icon-Pack.gif">
+# Hi, I'm Dewangga 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=badgenius22&label=Profile%20views&color=0e75b6&style=flat" alt="badgenius22" /> </p>
+📍 **Yogyakarta, Indonesia** | 🔐 **Web3 Security** | 🏗️ **Full Stack Builder**
 
-<p align="left"> <a href="https://twitter.com/dewaxindo" target="blank"><img src="https://img.shields.io/twitter/follow/dewaxindo?logo=twitter&style=for-the-badge" alt="dewaxindo" /></a> </p>
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-1C1C1C?style=flat&logo=ethereum&logoColor=white)
+![Anchor](https://img.shields.io/badge/Anchor-9945FF?style=flat&logo=solana&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
-- 🌱 ** Ex Solidity Developer at [Factor Finance](https://factor.fi/)**
-  
-- 🔭 Won a Prize in Chainlink Hackathon Fall 2022 with this project: [Battle of Heroes](https://github.com/BadGenius22/BoH-FrontEnd)
+> Building privacy infrastructure for Web3. Ex-Factor Finance. Shipping fast.
 
-- 👯 My Community & Media Company [iCrypto Media](https://www.tiktok.com/@icryptomedia)
+---
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/dewaxindo](https://linktr.ee/dewaxindo)
+## 🚀 Current Projects
 
-- 📫 How to reach me **badgenius.crypto@gmail.com**
+| Project | Description |
+|---------|-------------|
+| 🔐 [Vouch Protocol](https://github.com/aspect-labs/vouch-sdk) | ZK privacy SDK for Solana — anonymous credential verification |
+| 🎮 [RekonGG](https://app.rekon.gg) | Esports prediction market with AI match analysis |
+| 🔑 [LazorKit SDK](https://github.com/aspect-labs/lazor-kit) | Passkey-based Solana wallets — WebAuthn + gasless tx |
 
-- ⚡ Fun fact **I like Anime & Kpop Culture!**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/dewaxindo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dewaxindo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dewaxindo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dewaxindo" height="30" width="40" /></a>
-<a href="https://instagram.com/dewaxindo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dewaxindo" height="30" width="40" /></a>
-<a href="https://medium.com/@dewaxindo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dewaxindo" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dewanggapraxindo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dewanggapraxindo" height="30" width="40" /></a>
+## 💼 Past Work
+
+| Project | Impact |
+|---------|--------|
+| 💰 **Factor Finance** | Core smart contract engineer — $50M+ TVL leverage vaults, PeckShield audited |
+| 🤝 **Ember AI** | Open source contributor — Compound V3 integration |
+| 📊 **Messari** | Crypto analyst — subgraph validation, asset profiles |
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Chainlink Hackathon Fall 2022** — $500 Top Quality Project (VRF V2 + Automation)
+- 🎓 **Alchemy University** — Web3 Developer Degree
+- 🚀 **Y Combinator Startup School** — 2022 Graduate
+- 📈 **Cyfrin Updraft** — Smart Contract Security (2025)
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BadGenius22&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/solidity-icon.png" alt="solidity" width="40" height="40"/><a           
-  href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/> </a><a href="https://hardhat.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="hardhat" width="40" height="30"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>  </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BadGenius22&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats-badgenius22s-projects.vercel.app/api/top-langs?username=badgenius22&show_icons=true&theme=radical&locale=en&layout=compact" alt="badgenius22" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-badgenius22s-projects.vercel.app/api?username=badgenius22&show_icons=true&theme=radical&locale=en&show=prs_merged,prs_merged_percentage&rank_icon=percentile&include_all_commits=true" alt="badgenius22" /></p>
-
-
-
+<p align="center">
+  <a href="https://twitter.com/dewaxindo">𝕏 @dewaxindo</a> •
+  <a href="https://linkedin.com/in/dewanggapraxindo">LinkedIn</a>
+</p>
