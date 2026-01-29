@@ -50,7 +50,7 @@
 
 ## Connect
 
-[![Twitter](https://img.shields.io/badge/-@dewaxindo-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/dewaxindo)
+[![X](https://img.shields.io/badge/-@dewaxindo-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/dewaxindo)
 [![YouTube](https://img.shields.io/badge/-Dewangga_Praxindo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@dewanggapraxindo)
 [![Instagram](https://img.shields.io/badge/-@dewaxindo-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/dewaxindo)
 [![TikTok](https://img.shields.io/badge/-@dewaxindo-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@dewaxindo)
