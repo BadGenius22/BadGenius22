@@ -1,6 +1,8 @@
 # Hi, I'm Dewa 👋
 
-📍 **Yogyakarta, Indonesia** | 🔐 **Web3 Security** | 🏗️ **Full Stack Builder**
+**DeFi Smart Contract Engineer** | $50M+ TVL Deployed | PeckShield Audited
+
+📍 Yogyakarta, Indonesia • 🌐 [dewaxindo.com](https://dewaxindo.com)
 
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -9,60 +11,52 @@
 ![Anchor](https://img.shields.io/badge/-Anchor-9945FF?style=flat-square&logo=solana&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
-> Building privacy infrastructure for Web3. Ex-Factor Finance. Shipping fast.
+---
+
+## 🚀 What I Build
+
+| Project | Description | Links |
+|---------|-------------|-------|
+| 🔐 **Vouch Protocol** | ZK privacy SDK for Solana — anonymous credential verification using Noir | [GitHub](https://github.com/BadGenius22/vouch-protocol) |
+| 🎮 **RekonGG** | Esports prediction market on Polymarket with AI match analysis | [Live](https://app.rekon.gg) |
+| 🔑 **LazorKit SDK** | Passkey-based Solana wallets — WebAuthn + gasless transactions | [GitHub](https://github.com/BadGenius22/Lazorkit) |
 
 ---
 
-## 🚀 Current Projects
+## 💼 Experience
 
-| Project | Description |
-|---------|-------------|
-| 🔐 [Vouch Protocol](https://github.com/aspect-labs/vouch-sdk) | ZK privacy SDK for Solana — anonymous credential verification |
-| 🎮 [RekonGG](https://app.rekon.gg) | Esports prediction market with AI match analysis |
-| 🔑 [LazorKit SDK](https://github.com/aspect-labs/lazor-kit) | Passkey-based Solana wallets — WebAuthn + gasless tx |
-
----
-
-## 💼 Past Work
-
-| Project | Impact |
-|---------|--------|
-| 💰 **[Factor Finance](https://app.factor.fi/)** | Core smart contract engineer — $50M+ TVL leverage vaults, PeckShield audited |
-| 🤝 **Ember AI** | Open source contributor — Compound V3 integration |
-| 📊 **Messari** | Crypto analyst — subgraph validation, asset profiles |
+| Company | Role | Impact |
+|---------|------|--------|
+| 💰 **Factor Finance** | Smart Contract Engineer | $50M+ TVL leverage vaults, PeckShield audited |
+| 🤖 **Ember AI** | Open Source Contributor | Compound V3 integration |
+| 📊 **Messari** | Crypto Analyst | Subgraph validation, asset profiles |
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 **Chainlink Hackathon Fall 2022** — $500 Top Quality Project (VRF V2 + Automation)
+- 🥇 **Chainlink Hackathon Fall 2022** — $500 Top Quality Project
 - 🎓 **Alchemy University** — Web3 Developer Degree
 - 🚀 **Y Combinator Startup School** — 2022 Graduate
-- 📈 **Cyfrin Updraft** — Smart Contract Security (2025)
+- 🔐 **Cyfrin Updraft** — Smart Contract Security (2025)
 
 ---
 
-## GitHub Activity
+## 📊 GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/BadGenius22)
-
----
-
-## Media
-
-**[iCrypto Media](https://icrypto.co.id/)** — Indonesia's Web3 & Crypto News Platform
-
-[![X](https://img.shields.io/badge/-@icryptomedia-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/icryptomedia)
-[![Instagram](https://img.shields.io/badge/-@icryptomedia-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/icryptomedia)
-[![TikTok](https://img.shields.io/badge/-@icryptomedia-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@icryptomedia)
+![GitHub Stats](https://ghchart.rshah.org/BadGenius22)
 
 ---
 
-## Connect
+## 🤝 Let's Connect
 
-[![X](https://img.shields.io/badge/-@dewaxindo-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/dewaxindo)
-[![YouTube](https://img.shields.io/badge/-Dewangga_Praxindo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@dewanggapraxindo)
-[![Instagram](https://img.shields.io/badge/-@dewaxindo-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/dewaxindo)
-[![TikTok](https://img.shields.io/badge/-@dewaxindo-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@dewaxindo)
-[![LinkedIn](https://img.shields.io/badge/-Dewangga_Praxindo-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dewanggapraxindo)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BadGenius22)
+[![Portfolio](https://img.shields.io/badge/-dewaxindo.com-000000?style=flat-square&logo=vercel&logoColor=white)](https://dewaxindo.com)
+[![Twitter](https://img.shields.io/badge/-@dewaxindo-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/dewaxindo)
+[![LinkedIn](https://img.shields.io/badge/-dewanggapraxindo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dewanggapraxindo)
+[![Email](https://img.shields.io/badge/-hi@dewaxindo.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hi@dewaxindo.com)
+
+---
+
+<p align="center">
+  <i>Building secure DeFi infrastructure. Open to opportunities.</i>
+</p>
