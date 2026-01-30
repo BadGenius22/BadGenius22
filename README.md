@@ -17,7 +17,7 @@
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| 🔐 **Vouch Protocol** | ZK privacy SDK for Solana — anonymous credential verification using Noir | [GitHub](https://github.com/BadGenius22/vouch-protocol) |
+| 🔐 **Vouch Protocol** | ZK privacy SDK for Solana — anonymous credential verification using Noir | [Live](https://vouch-protocol.vercel.app/) |
 | 🎮 **RekonGG** | Esports prediction market on Polymarket with AI match analysis | [Live](https://app.rekon.gg) |
 | 🔑 **LazorKit SDK** | Passkey-based Solana wallets — WebAuthn + gasless transactions | [GitHub](https://github.com/BadGenius22/Lazorkit) |
 
