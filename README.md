@@ -17,6 +17,7 @@
 
 | Project | Description | Links |
 |---------|-------------|-------|
+| 🕌 **Amaly** | Ibadah tracker PWA for Ramadan — prayer logging, streaks, Quran reader, leaderboard, 69 badges, push notifications. 224+ users | [Live](https://amaly.app) |
 | 🔐 **Vouch Protocol** | ZK privacy SDK for Solana — anonymous credential verification using Noir | [Live](https://vouch-protocol.vercel.app/) |
 | 🎮 **RekonGG** | Esports prediction market on Polymarket with AI match analysis | [Live](https://app.rekon.gg) |
 | 🔑 **LazorKit SDK** | Passkey-based Solana wallets — WebAuthn + gasless transactions | [GitHub](https://github.com/BadGenius22/Lazorkit) |
