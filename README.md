@@ -17,6 +17,7 @@
 
 | Project | Description | Links |
 |---------|-------------|-------|
+| 🔮 **TOLDPROOF** | Verifiable reputation for AI agents & humans — sealed predictions on Sui + Walrus + Seal, multi-agent AI resolution (Claude + GPT + Gemini), MCP + x402 USDC. Sui Overflow 2026 Walrus track | [Live](https://toldproof.xyz) · [GitHub](https://github.com/BadGenius22/toldproof) |
 | 🕌 **Amaly** | Ibadah tracker PWA for Ramadan — prayer logging, streaks, Quran reader, leaderboard, 69 badges, push notifications. 224+ users | [Live](https://amaly.app) |
 | 🔐 **Vouch Protocol** | ZK privacy SDK for Solana — anonymous credential verification using Noir | [Live](https://vouch-protocol.vercel.app/) |
 | 🎮 **RekonGG** | Esports prediction market on Polymarket with AI match analysis | [Live](https://app.rekon.gg) |
